@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="flags">
+        <item>@drawable/argentina</item>
+        <item>@drawable/bolivia</item>
+        <item>@drawable/brasil</item>
+        <item>@drawable/chile</item>
+        <item>@drawable/colombia</item>
+        <item>@drawable/equador</item>
+        <item>@drawable/guiana</item>
+        <item>@drawable/franca</item>
+        <item>@drawable/paraguai</item>
+        <item>@drawable/peru</item>
+        <item>@drawable/suriname</item>
+        <item>@drawable/uruguai</item>
+        <item>@drawable/venezuela</item>
+    </string-array>
+</resources>

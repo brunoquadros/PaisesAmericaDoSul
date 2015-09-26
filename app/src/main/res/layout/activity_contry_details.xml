@@ -1,0 +1,83 @@
+<LinearLayout
+    android:orientation="vertical"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:weightSum="1"
+    android:gravity="center_horizontal">
+
+    <ImageView
+        android:layout_width="229dp"
+        android:layout_height="231dp"
+        android:id="@+id/imageView"
+        android:layout_gravity="center_horizontal"
+        android:src="@drawable/argentina128"
+        android:layout_margin="10dp" />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Nome Oficial"
+        android:id="@+id/nomeOficial"
+        android:textSize="30dp"
+        android:textStyle="bold" />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="República Argentinal"
+        android:id="@+id/nameView"
+        android:layout_gravity="center_horizontal"
+        android:textSize="25dp"
+        android:layout_margin="5dp" />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Capital"
+        android:id="@+id/capital"
+        android:textStyle="bold"
+        android:textSize="30dp" />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Buenos Aires"
+        android:id="@+id/capitalView"
+        android:layout_gravity="center_horizontal"
+        android:textSize="25dp"
+        android:layout_margin="5dp" />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Lingua Oficial"
+        android:id="@+id/linguaOficial"
+        android:textSize="30dp"
+        android:textStyle="bold" />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Espanhol"
+        android:id="@+id/linguaView"
+        android:layout_gravity="center_horizontal"
+        android:textSize="25dp"
+        android:layout_margin="5dp" />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Website Oficial"
+        android:id="@+id/siteOficial"
+        android:textSize="30dp"
+        android:textStyle="bold" />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="www.argentina.gov.ar"
+        android:id="@+id/siteView"
+        android:textSize="25dp"
+        android:layout_margin="5dp" />
+</LinearLayout>

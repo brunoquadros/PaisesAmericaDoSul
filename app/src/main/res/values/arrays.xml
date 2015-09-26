@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <array name="names">
+        <item>Argentina</item>
+        <item>Bolivia</item>
+        <item>Brasil</item>
+        <item>Chile</item>
+        <item>Colombia</item>
+        <item>Equador</item>
+        <item>Guaiana</item>
+        <item>Guaiana Francesa</item>
+        <item>Paraguai</item>
+        <item>Peru</item>
+        <item>Suriname</item>
+        <item>Uruguai</item>
+        <item>Venezuela</item>
+    </array>
+    <array name="capitals">
+        <item>Buenos Aires</item>
+        <item>La Paz</item>
+        <item>Brasilia</item>
+        <item>Santiago</item>
+        <item>Bogotá</item>
+        <item>Quito</item>
+        <item>Georgetown</item>
+        <item>Caiena</item>
+        <item>Assunção</item>
+        <item>Lima</item>
+        <item>Paramaribo</item>
+        <item>Montevidéo</item>
+        <item>Caracas</item>
+    </array>
+</resources>
